@@ -1,0 +1,13 @@
+remix-tailwind-app/
+│── app/
+│   ├── routes/
+│   │   └── _index.tsx
+│   ├── styles/
+│   │   └── tailwind.css
+│   └── root.tsx
+│── public/
+│── .gitignore
+│── package.json
+│── postcss.config.js
+│── tailwind.config.js
+│── tsconfig.json
